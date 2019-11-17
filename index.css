@@ -1,0 +1,60 @@
+.background-blue{
+    color: blue;
+}
+
+body {
+    background-color: brownc;
+}
+
+.margin-left {
+    margin-left:10px
+}
+#something {
+    color: crimson;
+    text-align: center;
+}
+
+ul li {
+    color: darkgreen;
+}
+
+ul > li{
+    color: darkorange;
+}
+
+.level1 {
+    color:chartreuse;
+}
+.padding{
+    padding:50px 20px;
+    padding-left:30px;
+    padding-right: 50px;
+}
+.margin{
+    width: 50px;
+margin: 200px 100px 300px 130px;
+margin-left: right 50px;
+
+
+
+}
+.level2 {
+    color:inherit;
+    border: crimson 3px solid;
+}
+
+.border{
+    box-sizing: border-box;
+
+}
+
+.content {
+    box-sizing: content-box;
+}
+
+.box{
+    width: 100px;
+    margin: 200px;
+    padding:100px;
+    border: 2px rebeccapurple solid;
+}
